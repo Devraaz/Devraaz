@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devraaz
-- 👀 I’m interested in AlgoTrading
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in AlgoTrading 
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Designing and AlgoTrading
 - 📫 How to reach me ...
 
