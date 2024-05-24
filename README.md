@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devraaz
-- 👀 I’m interested in AlgoTrading 
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Designing and AlgoTrading
+- 👀 I'm a Full Stack Web Developer 
+- 🌱 Passionate, Dedicated, Perfectly Imperfect Coder
+- 💞️ I’m looking to collaborate on Web Designing & Development
 - 📫 How to reach me ...
 
 <!---
