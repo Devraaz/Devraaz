@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devraaz
-- 👀 I'm a Full Stack Web Developer 
+- 👀 I'm a Full Stack  Developer 
 - 🌱 Passionate, Dedicated, Perfectly Imperfect Coder
 - 💞️ I’m looking to collaborate on Web Designing & Development
 - 📫 How to reach me ...
